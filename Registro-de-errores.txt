@@ -1,0 +1,9 @@
+java.lang.NumberFormatException: For input string: "a"
+java.lang.NumberFormatException: For input string: "a"
+java.lang.NumberFormatException: For input string: "aa"
+java.lang.NumberFormatException: For input string: "a"
+com.sergiobogarin.conversordedivisas.exceptions.ErrorOpcion: Entrada fuera del margen de las opciones
+java.lang.NumberFormatException: For input string: "tt"
+com.sergiobogarin.conversordedivisas.exceptions.ErrorCodigoDeDivisaIncorrecta: Error unsupported-code: La sigla de alguna de las divisas seleccionadas se escribio erroneamente.
+com.sergiobogarin.conversordedivisas.exceptions.ErrorCodigoDeDivisaIncorrecta: Error unsupported-code: La sigla de alguna de las divisas seleccionadas se escribio erroneamente.
+com.sergiobogarin.conversordedivisas.exceptions.ErrorCodigoDeDivisaIncorrecta: Error unsupported-code: La sigla de alguna de las divisas seleccionadas se escribio erroneamente.
